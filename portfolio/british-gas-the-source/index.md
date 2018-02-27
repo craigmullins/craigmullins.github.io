@@ -1,15 +1,18 @@
 ---
-title: British Gas - The Source
+title: British Gas - The Source Updates Jan 2016
 categories:
-  - one
-  - two
-  - three
+  - Digital Projects
+  - British Gas
+  - Website Development
 ---
 
-# British Gas - The Source
+# {{ page.title }}
 
-Lorem ipsum dolar sit a met.
+![homepage of the source](main_image.png)
 
-![homepage of the source](main_image.jpg)
+Several updates to the build of The Source
+
+![energys grand journey](journey.png)
+![article page](article.png)
 
 [Visit online](https://www.britishgas.co.uk/the-source/)
