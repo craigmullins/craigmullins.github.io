@@ -2,4 +2,4 @@
 title: Test Page
 ---
 
-# {{ title }}
+# {{ page.title }}
