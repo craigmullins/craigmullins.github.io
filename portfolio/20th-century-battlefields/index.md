@@ -1,18 +1,17 @@
 ---
-title: British Gas - The Source Updates Jan 2016
+title: 20th Century Battlefields
 categories:
   - Digital Projects
-  - British Gas
+  - History
+  - BBC
+  - Factual
   - Website Development
 ---
 
 # {{ page.title }}
 
-![homepage of the source](main_image.png)
+![20th Century Battlefields image](main_image.jpg)
 
-Several updates to the build of The Source
+Programme support microsite
 
-![energys grand journey](journey.png)
-![article page](article.png)
-
-[Visit online](https://www.britishgas.co.uk/the-source/)
+[Visit online](https://www.bbc.co.uk/programmes/b007npgp/episodes/guide/)

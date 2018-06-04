@@ -1,18 +1,20 @@
 ---
-title: British Gas - The Source Updates Jan 2016
+title: Antiques
 categories:
   - Digital Projects
-  - British Gas
+  - Antiques
+  - BBC
+  - Lifestyle
+  - Factual
   - Website Development
 ---
 
 # {{ page.title }}
 
-![homepage of the source](main_image.png)
+![BBC Antiques image](main_image.png)
 
-Several updates to the build of The Source
+Genre microsite for antiques
 
-![energys grand journey](journey.png)
-![article page](article.png)
+July 2004 to December 2008 Production Manager
 
-[Visit online](https://www.britishgas.co.uk/the-source/)
+[Read more (site no longer live)](http://www.bbc.co.uk/programmes/genres/factual/antiques/all/)

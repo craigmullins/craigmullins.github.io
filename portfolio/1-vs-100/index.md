@@ -1,18 +1,15 @@
 ---
-title: British Gas - The Source Updates Jan 2016
+title: 1 vs 100
 categories:
   - Digital Projects
-  - British Gas
-  - Website Development
+  - Entertainment
+  - Red Button
 ---
 
 # {{ page.title }}
 
-![homepage of the source](main_image.png)
+![1 vs 100 image](main_image.jpg)
 
-Several updates to the build of The Source
+Playalong live with the show, answer the questions and get your score at the end.
 
-![energys grand journey](journey.png)
-![article page](article.png)
-
-[Visit online](https://www.britishgas.co.uk/the-source/)
+[Visit online](https://www.bbc.co.uk/programmes/b007y5mv/episodes/guide/)

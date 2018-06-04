@@ -1,18 +1,15 @@
 ---
-title: British Gas - The Source Updates Jan 2016
+title: In it to win it
 categories:
   - Digital Projects
-  - British Gas
-  - Website Development
+  - Entertainment
+  - Red Button
 ---
 
 # {{ page.title }}
 
-![homepage of the source](main_image.png)
+![In it to win it image](main_image.png)
 
-Several updates to the build of The Source
+Playalong live with the show, answer the questions and get your score at the end. See a clip.
 
-![energys grand journey](journey.png)
-![article page](article.png)
-
-[Visit online](https://www.britishgas.co.uk/the-source/)
+[Visit online](https://www.bbc.co.uk/programmes/b0080qf4/)

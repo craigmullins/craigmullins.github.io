@@ -1,18 +1,19 @@
 ---
-title: British Gas - The Source Updates Jan 2016
+title: Ancient Egypt
 categories:
   - Digital Projects
-  - British Gas
+  - History
+  - BBC
+  - Factual
   - Website Development
 ---
 
 # {{ page.title }}
 
-![homepage of the source](main_image.png)
+![Ancient Egypt image](main_image.png)
 
-Several updates to the build of The Source
+Programme support microsite
 
-![energys grand journey](journey.png)
-![article page](article.png)
+July 2004 to December 2008 Production Manager
 
-[Visit online](https://www.britishgas.co.uk/the-source/)
+[Visit online](http://www.bbc.co.uk/history/ancient/egyptians/)

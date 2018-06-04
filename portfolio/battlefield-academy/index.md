@@ -1,18 +1,19 @@
 ---
-title: British Gas - The Source Updates Jan 2016
+title: Battlefield Academy
 categories:
   - Digital Projects
-  - British Gas
-  - Website Development
+  - History
+  - BBC
+  - Factual
+  - Game Development
 ---
 
 # {{ page.title }}
 
-![homepage of the source](main_image.png)
+![Battlefield Academy image](main_image.jpg)
 
-Several updates to the build of The Source
+Game based on historical battles
 
-![energys grand journey](journey.png)
-![article page](article.png)
+July 2004 to December 2008 Production Manager
 
-[Visit online](https://www.britishgas.co.uk/the-source/)
+[Visit online](http://www.bbc.co.uk/history/british/launch_gms_bfacademy.shtml/)

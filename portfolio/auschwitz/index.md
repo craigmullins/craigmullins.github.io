@@ -1,5 +1,5 @@
 ---
-title: British Gas - The Source Updates Jan 2016
+title: Auschwitz
 categories:
   - Digital Projects
   - British Gas
@@ -8,11 +8,10 @@ categories:
 
 # {{ page.title }}
 
-![homepage of the source](main_image.png)
+![Auschwitz image](main_image.jpg)
 
-Several updates to the build of The Source
+Programme support microsite
 
-![energys grand journey](journey.png)
-![article page](article.png)
+July 2004 to December 2008 Production Manager
 
-[Visit online](https://www.britishgas.co.uk/the-source/)
+[Visit online](https://www.bbc.co.uk/programmes/p00tsl60/)

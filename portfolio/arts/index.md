@@ -1,18 +1,19 @@
 ---
-title: British Gas - The Source Updates Jan 2016
+title: Arts
 categories:
   - Digital Projects
-  - British Gas
+  - Arts
+  - BBC
+  - Factual
   - Website Development
 ---
 
 # {{ page.title }}
 
-![homepage of the source](main_image.png)
+![BBC Arts image](main_image.png)
 
-Several updates to the build of The Source
+Genre microsite for arts
 
-![energys grand journey](journey.png)
-![article page](article.png)
+July 2004 to December 2008 Production Manager
 
-[Visit online](https://www.britishgas.co.uk/the-source/)
+[Visit online](https://www.bbc.co.uk/arts/)
