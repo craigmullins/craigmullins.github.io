@@ -16,4 +16,4 @@ Website section on Sir John Betjeman
 
 July 2004 to December 2008 Production Manager
 
-[Visit online](hhttps://www.bbc.co.uk/programmes/p025jt33/)
+[Visit online](https://www.bbc.co.uk/programmes/p025jt33/)

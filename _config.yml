@@ -1,2 +1,5 @@
 safe: true
 permalink: pretty
+
+source: src
+destination: build
